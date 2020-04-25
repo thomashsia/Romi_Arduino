@@ -8,3 +8,5 @@ Using Romi to accomplish the line-following task
 - [x] Going Home;
 - [x] Blue Circle
 
+## Map
+![stack Overflow](http://lmsotfy.com/so.png)
