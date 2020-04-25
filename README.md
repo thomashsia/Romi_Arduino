@@ -1,4 +1,10 @@
 # Romi_Arduino
 Using Romi to accomplish the line-following task
 
-@thomas :+1: This PR looks great - it's ready to merge! :shipit:; :blue:
+## Task List:
+- [x] Going Straight and Detect the Line;
+- [x] Line Following;
+- [x] Line End Detection;
+- [x] Going Home;
+- [x] Blue Circle
+
