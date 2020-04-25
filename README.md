@@ -9,6 +9,4 @@ Using Romi to accomplish the line-following task
 - [x] Blue Circle
 
 ## Map
-![stack Overflow](http://lmsotfy.com/so.png)
-![Map](CourseWorMap_90x190cm.pdf)
 ![Map](CourseWorMap_90x190cm.jpg)
