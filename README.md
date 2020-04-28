@@ -10,7 +10,7 @@ Note: Sorry about the delayed recording, the Romi started from the centre of the
 - [x] Line Following;
 - [x] Line End Detection;
 - [x] Going Home;
-- [x] Blue Circle
+- [x] Stop within the Blue Circle
 
 ## Map
 ![Map](CourseWorMap_90x190cm.jpg)
