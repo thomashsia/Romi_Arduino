@@ -16,4 +16,4 @@ Note: Sorry about the delayed recording, the Romi started from the centre of the
 ![Map](CourseWorMap_90x190cm.jpg)
 
 ## Flow Chart
-![Flow Chart](Romi Flow Chart.jpg)
+![Flow Chart](Romi Flow Chart.png)
