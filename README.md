@@ -1,5 +1,6 @@
 # Romi Arduino
 Using Romi to accomplish the line-following task
+[Video](https://drive.google.com/open?id=1KFJOX-LMRZ4LEj-RMjIquQ1IABAgHnQY)
 
 ## Task List:
 - [x] Going Straight and Detect the Line;
