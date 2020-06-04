@@ -1,7 +1,5 @@
 # Romi Arduino
-Using Romi to accomplish the line-following task. 
-
-[Video](https://drive.google.com/open?id=1KFJOX-LMRZ4LEj-RMjIquQ1IABAgHnQY)
+Using Romi to accomplish the line-following task. [Video](https://drive.google.com/open?id=1KFJOX-LMRZ4LEj-RMjIquQ1IABAgHnQY)
 
 Note: Sorry about the delayed recording, the Romi started from the centre of the blue circle.
 
