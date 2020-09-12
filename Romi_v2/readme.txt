@@ -1,13 +1,7 @@
-From now, it can drive backward to the starting point.
+From now, it can drive backward to the starting point and stop in the blue circle.
 
-Goal: Combining PID with the previous work.
-
-
-This version achieved: 
-
-1. Straight line control using Theta_Control. --- DONE.
-
-2. Rotating clockwise to face home. --- DONE.
+Future Goal: Combining PID with the previous work.
 
 
-This code attend the Assessment 1 and get 65 marks.
+
+This code attended the Assessment 1 and 2, obtained 90+ marks according to the marking schedule.
